@@ -1,0 +1,2 @@
+book = "Programming"
+print(book)
